@@ -19,7 +19,7 @@ If you've built the script properly you should have `beep` function defined at t
 
 # What will now happen
 
-When a drop is detected what will happen is the alarm sound file will play repeatedly for about a minute or until the next refresh. Then a message will be sent to your discord server with a link to the product page.
+When a drop is detected what will happen is the alarm sound file will play repeatedly for about a minute or until the next refresh. (Make sure you allow permissions for Autoplay of audio/video in the permissions for the website. This only needs to be set once per website.) Then a message will be sent to your discord server with a link to the product page.
 
 # Profit!
 
