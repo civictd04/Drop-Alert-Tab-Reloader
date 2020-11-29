@@ -1,6 +1,6 @@
 const discordwh = () => {
   fetch(
-    'https://discordapp.com/api/webhooks/779141615545352212/aAUvAgC_sIqWGnrF4TwgfP2efUtWmhPmOsWETKLPByfj5uhWyS2vNrMx0aBn4-flGs-y',
+    'REPLACE_THIS_WHOLE_STRING_WITH_YOUR_WEBHOOK_URL',
     {
       method: 'post',
       headers: {
